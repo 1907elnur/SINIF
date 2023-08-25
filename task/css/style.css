@@ -1,0 +1,31 @@
+.box {
+  float: left;
+    width: 18%;
+    color: #d9362b;
+    margin:0 calc(20%/20) ;
+}
+
+.order-image img{
+
+    width: 100%;
+    vertical-align: bottom;
+   border-bottom-right-radius: 100px;
+    border-top-left-radius: 100px ;
+
+ height: 200px;
+ object-fit: contain;
+ 
+}
+
+.order-content{
+
+  background-color: whitesmoke;  
+  padding: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+ 
+}
+
+.product{ 
+  background-color: white;
+}
